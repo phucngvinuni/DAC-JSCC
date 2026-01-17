@@ -12,11 +12,11 @@ The system uses a Deep Neural Network (Autoencoder) to learn robust feature repr
 ## 🎥 Demo
 Check out the system in action, transmitting handwritten digits from the transmitter PC to the receiver PC via light:
 
-<video src="demo.mp4" controls="controls" style="max-width: 100%;">
+<video src="7426337206204.mp4" controls="controls" style="max-width: 100%;">
   Your browser does not support the video tag.
 </video>
 
-*(If the video does not load, please open `demo.mp4` locally)*
+
 
 ---
 
